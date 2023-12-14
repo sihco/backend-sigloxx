@@ -3,8 +3,8 @@
 return [
 
     'class' => 'yii\db\Connection',
-    'dsn' => 'pgsql:host=localhost;dbname=db_de_gestor',
-    'username' => 'gestor',
+    'dsn' => 'pgsql:host=localhost;dbname=gestordb',
+    'username' => 'gestoruser',
     'password' => '123456',
     'charset' => 'utf8',
     // 'class' => 'yii\db\Connection',
